@@ -16,7 +16,7 @@
 
 #### 使用方法：
 
-`composer require loyaltylu/tcc-transaction`
+`composer require tegic/tcc-transaction`
 
 
 `php bin/hyperf.php vendor:publish loyaltylu/tcc-transaction`
