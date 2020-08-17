@@ -1,15 +1,15 @@
 {
-    "name": "loyaltylu/tcc-transaction",
+    "name": "tegic/tcc-transaction",
     "authors": [
         {
-            "name": "luzhong",
-            "email": "979126035@qq.com"
+            "name": "tegic",
+            "email": "teg1c@foxmail.com"
         }
     ],
     "require": {
-        "hyperf/nsq": "~1.1.0",
-        "hyperf/snowflake": "~1.1.0",
-        "hyperf/logger": "~1.1.0",
+        "hyperf/nsq": "~2.0.0",
+        "hyperf/snowflake": "~2.0.0",
+        "hyperf/logger": "~2.0.0",
         "phpmailer/phpmailer": "~6.1"
     },
     "replace":{
